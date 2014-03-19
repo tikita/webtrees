@@ -643,15 +643,15 @@ msgstr "<b>webtrees</b> Mail Antwort-Adresse"
 
 #: login.php:144
 msgid "<center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to <u>authorized</u> users only.<br><br>If you have a user account you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying your information, the administrator will either approve or decline your account application.  You will receive an email message when your application has been approved."
-msgstr "<center><b>Willkommen auf dieser Genealogie Webseite</b></center><br>Der Zugriff auf diese Seite ist nur <u>autorisierten</u> Benutzern erlaubt.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrem Antrag zustimmen (oder ihn ablehnen). Sie werden eine Mail mit dem Antragsergebnis erhalten."
+msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Der Zugriff auf diese Seite ist nur <u>autorisierten</u> Benutzern erlaubt.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrem Antrag zustimmen (oder ihn ablehnen). Sie werden eine Mail mit dem Antragsergebnis erhalten."
 
 #: login.php:147
 msgid "<center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to <u>family members only</u>.<br><br>If you have a user account you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying the information you provide, the administrator will either approve or decline your request for an account.  You will receive an email when your request is approved."
-msgstr "<center><b>Willkommen auf dieser Genealogie Webseite</b></center><br>Den Zugriff auf diese Seite erhalten <u>nur Familienmitglieder</u>.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrem Antrag zustimmen (oder ihn ablehnen).<br>Sie werden eine Mail mit dem Antragsergebnis erhalten."
+msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Den Zugriff auf diese Seite erhalten <u>nur Familienmitglieder</u>.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrem Antrag zustimmen (oder ihn ablehnen).<br>Sie werden eine Mail mit dem Antragsergebnis erhalten."
 
 #: login.php:141
 msgid "<center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to every visitor who has a user account.<br><br>If you have a user account, you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying your application, the site administrator will activate your account.  You will receive an email when your application has been approved."
-msgstr "<center><b>Willkommen auf dieser Genealogie Webseite</b></center><br>Den Zugriff auf diese Seite erhält jeder Benutzer, der einen Zugang beantragt hat und vom Verwalter bestätigt wurde.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihren Zugang freigeben. Sie werden dann eine Bestätigungs-Mail erhalten."
+msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Den Zugriff auf diese Seite erhält jeder Benutzer, der einen Zugang beantragt hat und vom Verwalter bestätigt wurde.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihren Zugang freigeben. Sie werden dann eine Bestätigungs-Mail erhalten."
 
 #. I18N: default option in list of themes
 #: admin_trees_config.php:460 admin_users.php:202 admin_users.php:410
@@ -7024,16 +7024,16 @@ msgstr "Höhe"
 #: login.php:234 login.php:321
 #, php-format
 msgid "Hello %s…"
-msgstr "Hallo %s…"
+msgstr "Hallo %s,"
 
 #: login.php:372
 #, php-format
 msgid "Hello %s…<br>Thank you for your registration."
-msgstr "Hallo %s …<br>Danke für Ihren Antrag."
+msgstr "Hallo %s,<br>danke für Ihre Registrierung."
 
 #: login.php:299 login.php:490
 msgid "Hello administrator…"
-msgstr "Hallo Verwalter …"
+msgstr "Hallo Verwalter"
 
 #: help_text.php:1503
 msgid "Help"
@@ -7355,7 +7355,7 @@ msgstr "Wenn Sie das Problem nicht selbst lösen können, können Sie im Forum a
 
 #: login.php:332
 msgid "If you didn’t request an account, you can just delete this message."
-msgstr "Falls Sie keinen Zugang beantragt haben, können Sie diese Mail einfach löschen."
+msgstr "Falls Sie keinen Zugang angefragt haben, können Sie diese E-Mail einfach löschen."
 
 #: modules_v3/googlemap/help_text.php:83
 msgid "If you have a large number of inactive places, it can be slow to generate the list."
@@ -10799,7 +10799,7 @@ msgstr "Start"
 
 #: login.php:325
 msgid "Please click on the following link and fill in the requested data to confirm your request and email address."
-msgstr "Bitte klicken Sie nun auf den folgenden Link und geben Sie die dort geforderten Daten ein, um Ihren Antrag und Ihre Mail Adresse zu bestätigen."
+msgstr "Bitte klicken Sie nun auf den folgenden Link und geben Sie die dort geforderten Daten ein, um Ihre Anfrage und Ihre E-Mail-Adresse zu bestätigen."
 
 #: search.php:77
 msgid "Please enter a Given name, Last name, or Place in addition to Year"
@@ -15657,7 +15657,7 @@ msgstr "Jemen"
 #: login.php:323
 #, php-format
 msgid "You (or someone claiming to be you) has requested an account at %1$s using the email address %2$s."
-msgstr "Sie selbst (oder jemand der sich für Sie ausgibt) hat am %1$s ein Benutzerkonto unter Benutzung der E-Mail-Adresse %2$s beantragt."
+msgstr "Sie selbst (oder jemand der sich für Sie ausgibt) haben am %1$s ein Benutzerkonto unter Benutzung der E-Mail-Adresse %2$s angefragt."
 
 #: login.php:271 message.php:68
 msgid "You are not allowed to send messages that contain external links."
@@ -20234,7 +20234,7 @@ msgstr "…"
 #~ msgstr "Sie haben die folgende Auswahl:"
 
 #~ msgid "You won’t get any more email from this site, because the account request will be deleted automatically after seven days."
-#~ msgstr "Sie werden keine weitere Mail erhalten, da ohne Ihre Bestätigung die angegebenen Daten nach einer Woche automatisch gelöscht werden."
+#~ msgstr "Sie werden keine weitere E-Mail erhalten, da ohne Ihre Bestätigung die angegebenen Daten nach einer Woche automatisch gelöscht werden."
 
 #~ msgid "before %d"
 #~ msgstr "vor %d"
