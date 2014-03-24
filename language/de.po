@@ -771,7 +771,7 @@ msgstr "Für Ihren Benutzernamen wurde ein neues Kennwort angefordert."
 #: login.php:493
 #, php-format
 msgid "A new user (%1$s) has requested an account (%2$s) and verified an email address (%3$s)."
-msgstr "Ein neuer Benutzer (%1$s) hat für ein Benutzerkonto (%2$s) angefragt und dies mit der E-Mail-Adresse (%3$s) bestätigt."
+msgstr "Ein neuer Benutzer (%1$s) hat wegen eines Benutzerkontos (%2$s) angefragt und dies mit der E-Mail-Adresse (%3$s) bestätigt."
 
 #: admin.php:111 admin_site_upgrade.php:83
 msgid "A new version of webtrees is available."
