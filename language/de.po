@@ -643,15 +643,15 @@ msgstr "<b>webtrees</b> Mail Antwort-Adresse"
 
 #: login.php:144
 msgid "<center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to <u>authorized</u> users only.<br><br>If you have a user account you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying your information, the administrator will either approve or decline your account application.  You will receive an email message when your application has been approved."
-msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Der Zugriff auf diese Seite ist nur <u>autorisierten</u> Benutzern erlaubt.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrem Antrag zustimmen (oder ihn ablehnen). Sie werden eine Mail mit dem Antragsergebnis erhalten."
+msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Der Zugriff auf diese Seite ist nur <u>autorisierten</u> Benutzern erlaubt.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie sich registrieren, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrer Anfrage zustimmen (oder sie ablehnen). Sie werden eine E-Mail mit dem Entscheidungsergebnis erhalten."
 
 #: login.php:147
 msgid "<center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to <u>family members only</u>.<br><br>If you have a user account you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying the information you provide, the administrator will either approve or decline your request for an account.  You will receive an email when your request is approved."
-msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Den Zugriff auf diese Seite erhalten <u>nur Familienmitglieder</u>.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrem Antrag zustimmen (oder ihn ablehnen).<br>Sie werden eine Mail mit dem Antragsergebnis erhalten."
+msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Den Zugriff auf diese Seite erhalten <u>nur Familienmitglieder</u>.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie sich registrieren, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihrer Anfrage zustimmen (oder ihn ablehnen).<br>Sie werden eine E-Mail mit dem Entscheidungsergebnis erhalten."
 
 #: login.php:141
 msgid "<center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to every visitor who has a user account.<br><br>If you have a user account, you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying your application, the site administrator will activate your account.  You will receive an email when your application has been approved."
-msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Den Zugriff auf diese Seite erhält jeder Benutzer, der einen Zugang beantragt hat und vom Verwalter bestätigt wurde.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie diesen beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihren Zugang freigeben. Sie werden dann eine Bestätigungs-Mail erhalten."
+msgstr "<center><b>Willkommen auf dieser Genealogie-Webseite!</b></center><br>Den Zugriff auf diese Seite erhält jede/r Benutzer/in, der/die einen Zugang angefragt hat und vom Verwalter bestätigt wurde.<br><br>Wenn Sie bereits einen Benutzernamen haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch keinen Zugang besitzen, können Sie sich registrieren, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Verwalter Ihren Zugang freigeben. Sie werden dann eine Bestätigungs-Mail erhalten."
 
 #. I18N: default option in list of themes
 #: admin_trees_config.php:460 admin_users.php:202 admin_users.php:410
@@ -661,7 +661,7 @@ msgstr "<voreingestelltes Layout>"
 
 #: login.php:394
 msgid "<div class=\"largeError\">Notice:</div><div class=\"error\">By completing and submitting this form, you agree:<ul><li>to protect the privacy of living individuals listed on our site;</li><li>and in the text box below, to explain to whom you are related, or to provide us with information on someone who should be listed on our site.</li></ul></div>"
-msgstr "<div class=\"largeError\">Bitte beachten Sie:</div><div class=\\\"error\\\">Indem Sie dieses ausgefüllte Formular einsenden, bestätigen Sie Ihr Einverständnis mit den folgenden Bedingungen:<ul><li>dass Sie Informationen über lebende Personen, die in dieser Datenbank vorkommen, immer vertraulich halten;</li><li>und dass Sie in der unten stehenden Textbox Ihre Verwandtschaft zu Personen in dieser Datenbank erklären und Informationen über Personen, die in dieser Datenbank vorkommen, aber dort eventuell fehlen sollten, mitteilen.</li></ul></div>"
+msgstr "<div class=\"largeError\">Bitte beachten Sie:</div><div class=\\\"error\\\">Indem Sie dieses ausgefüllte Formular absenden, bestätigen Sie Ihr Einverständnis mit den folgenden Bedingungen:<ul><li>dass Sie Informationen über lebende Personen, die in dieser Datenbank vorkommen, immer vertraulich halten;</li><li>und dass Sie in der unten stehenden Textbox Ihre Verwandtschaft zu Personen in dieser Datenbank erklären und Informationen über Personen, die in dieser Datenbank vorkommen, aber dort eventuell fehlen sollten, mitteilen.</li></ul></div>"
 
 #. I18N: a label/value pair, such as “Occupation: Farmer”.  Some languages may need to change the punctuation.
 #: library/WT/Gedcom/Tag.php:843
@@ -771,7 +771,7 @@ msgstr "Für Ihren Benutzernamen wurde ein neues Kennwort angefordert."
 #: login.php:493
 #, php-format
 msgid "A new user (%1$s) has requested an account (%2$s) and verified an email address (%3$s)."
-msgstr "Ein neuer Benutzer (%1$s) hat ein Benutzerkonto (%2$s) beantragt und und dies mit der E-Mail-Adresse (%3$s) bestätigt."
+msgstr "Ein neuer Benutzer (%1$s) hat für ein Benutzerkonto (%2$s) angefragt und dies mit der E-Mail-Adresse (%3$s) bestätigt."
 
 #: admin.php:111 admin_site_upgrade.php:83
 msgid "A new version of webtrees is available."
@@ -5273,7 +5273,7 @@ msgstr "Doppelter Benutzername. Ein Benutzer mit dem gewählten Namen existiert 
 
 #: help_text.php:779
 msgid "E-mail address to be used in the “From:” field of e-mails that <b>webtrees</b> creates automatically.<br><br><b>webtrees</b> can automatically create e-mails to notify administrators of changes that need to be reviewed.  <b>webtrees</b> also sends notification e-mails to users who have requested an account.<br><br>Usually, the “From:” field of these automatically created e-mails is something like <i>From: webtrees-noreply@yoursite</i> to show that no response to the e-mail is required.  To guard against spam or other e-mail abuse, some e-mail systems require each message’s “From:” field to reflect a valid e-mail account and will not accept messages that are apparently from account <i>webtrees-noreply</i>."
-msgstr "Die Mail-Adresse, die für das «Absender:» Feld von automatisch erstellten Mails benutzt werden soll.<br><br><b>webtrees</b> erstellt automatische Mails, die den Verwalter darauf aufmerksam machen, dass Änderungen gemacht wurden, und dass diese noch kontrolliert werden müssen. Automatische Mails werden auch erstellt, wenn neue Benutzer einen Zugriffsantrag gemacht haben.<br><br>Das «Absender:» Feld dieser automatischen Mails ähnelt gewöhnlich <i>Abs: webtrees-noreply@yoursite</i> und das bedeutet dass keine Antwort erwartet ist. Um gültige Mails zu erkennen, erfordern manche Mail-Systeme dass jede Mail-Nachricht eine gültige Absender-Adresse hat. Diese Mail-Systeme erkennen also keine Mails vom Absender <i>webtrees-noreply</i> als gültig."
+msgstr "Die Mail-Adresse, die für das «Absender:» Feld von automatisch erstellten Mails benutzt werden soll.<br><br><b>webtrees</b> erstellt automatische Mails, die den Verwalter darauf aufmerksam machen, dass Änderungen gemacht wurden, und dass diese noch kontrolliert werden müssen. Automatische Mails werden auch erstellt, wenn neue Benutzer eine Registrierungsanfrage gemacht haben.<br><br>Das «Absender:» Feld dieser automatischen Mails ähnelt gewöhnlich <i>Abs: webtrees-noreply@yoursite</i> und das bedeutet dass keine Antwort erwartet ist. Um gültige Mails zu erkennen, erfordern manche Mail-Systeme dass jede Mail-Nachricht eine gültige Absender-Adresse hat. Diese Mail-Systeme erkennen also keine Mails vom Absender <i>webtrees-noreply</i> als gültig."
 
 #: help_text.php:1175
 msgid "Each source records specific events, generally for a given date range and for a place jurisdiction.  For example a Census records census events and church records record birth, marriage, and death events.<br><br>Select the events that are recorded by this source from the list of events provided. The date should be specified in a range format such as <i>FROM 1900 TO 1910</i>. The place jurisdiction is the name of the lowest jurisdiction that encompasses all lower-level places named in this source. For example, “Oneida, Idaho, USA” would be used as a source jurisdiction place for events occurring in the various towns within Oneida County. “Idaho, USA” would be the source jurisdiction place if the events recorded took place not only in Oneida County but also in other counties in Idaho."
@@ -6783,7 +6783,7 @@ msgstr "Erlaubt den Benutzern eigene Themes auszuwählen."
 
 #: help_text.php:1002
 msgid "Gives visitors the option of registering themselves for an account on the site.<br><br>The visitor will receive an email message with a code to verify his application for an account.  After verification, the Administrator will have to approve the registration before it becomes active."
-msgstr "Erlaubt den Benutzern, einen Benutzerzugang zu diesen Seiten anzutragen.<br><br>Der Benutzer wird eine E-Mail erhalten mit einem Code zur Bestätigung des Antrages.<br><br>Danach muss der Verwalter diesen Antrag noch bestätigen, bevor der neue Benutzer sich anmelden darf."
+msgstr "Erlaubt den Benutzern, einen Benutzerzugang zu diesen Seiten anzutragen.<br><br>Der Benutzer wird eine E-Mail erhalten mit einem Code zur Bestätigung der Anfrage.<br><br>Danach muss der Verwalter über diese Anfrage noch entscheiden, bevor der neue Benutzer sich anmelden darf."
 
 #. I18N: gedcom tag _UID
 #: library/WT/Gedcom/Tag.php:811
@@ -7092,7 +7092,7 @@ msgstr "Hier bestimmen Sie, wie die Orte angezeigt werden sollen. Bei Ja werden 
 
 #: help_text.php:1045
 msgid "Here you can choose text to appear on the login screen. You must determine which predefined text is most appropriate.<br><br>You can also choose to enter your own custom Welcome text.  Please refer to the Help text associated with the <b>Custom Welcome text</b> field for more information.<br><br>The predefined texts are:<ul><li><b>Predefined text that states all users can request a user account:</b><div class=\"list_value_wrap\"><center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to every visitor who has a user account.<br><br>If you have a user account, you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying your application, the site administrator will activate your account.  You will receive an email when your application has been approved.</div><br></li><li><b>Predefined text that states admin will decide on each request for a user account:</b><div class=\"list_value_wrap\"><center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to <u>authorized</u> users only.<br><br>If you have a user account you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying your information, the administrator will either approve or decline your account application.  You will receive an email message when your application has been approved.</div><br></li><li><b>Predefined text that states only family members can request a user account:</b><div class=\"list_value_wrap\"><center><b>Welcome to this Genealogy website</b></center><br>Access to this site is permitted to <u>family members only</u>.<br><br>If you have a user account you can login on this page.  If you don’t have a user account, you can apply for one by clicking on the appropriate link below.<br><br>After verifying the information you provide, the administrator will either approve or decline your request for an account.  You will receive an email when your request is approved.</div></li></ul>"
-msgstr "Hier können Sie den Text auf dem Login-Bildschirm wählen. Sie müssen festlegen, welcher vordefinierte Text am besten passt.<br><br>Sie können aber auch Ihren eigenen, individualisierten Begrüßungstext eingeben. Bitte beachten Sie für weitere Informationen die Hilfetexte, die mit dem Feld <b>individualisierter Begrüßungstext</b> verbunden sind.<br><br>Die vordefinierten Standardtexte sind:<ul><li><b>Textbausteine die mitteilen, dass alle Benutzer ein Benutzerkonto beantragen können:</b><div class=\"list_value_wrap\"><center><b> Willkommen auf dieser Genealogie Webseite</b></center><br>Der Zugang zu dieser Webseite ist jedem Besucher mit einem Benutzerkonto möglich.<br><br>Wenn Sie bereits ein Benutzerkonto haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch kein Benutzerkonto haben, können Sie es beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Webseitenadministrator Ihr Konto zu aktivieren. Sie erhalten eine E-Mail, sobald Ihr Antrag genehmigt wurde</div><br></li><li><b>Standardtext, der besagt, dass bei jeder Anfrage für ein Benutzerkonto der Administrator entscheidet:</b><div class=\"list_value_wrap\"><center><b>Willkommen auf dieser Genealogie-Webseite</b></center><br>Der Zugang zu dieser Webseite ist nur <u>autorisierten</u> Benutzern gestattet.<br><br>Wenn Sie bereits ein Benutzerkonto haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch kein Benutzerkonto haben, können Sie es beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Administrator Ihren Antrag entweder genehmigen oder ablehnen. Sie erhalten eine E-Mail, wenn Ihr Antrag genehmigt wurde</div><br></li><li><b>Standardtext, dass nur Familienmitglieder ein Benutzerkonto beantragen können:</b><div class = \"list_value_wrap\"><center><b>Willkommen auf dieser Genealogie-Webseite</b></center><br>Der Zugang zu dieser Webseite ist <u>nur Familienmitgliedern</u> möglich.<br><br>Wenn Sie bereits ein Benutzerkonto besitzen, können Sie sich auf dieser Seite anmelden. Wenn Sie noch kein Benutzerkonto haben, können Sie es beantragen, indem Sie auf den entsprechenden Link klicken.<br><br>Nach Überprüfung Ihrer Informationen, wird der Administrator Ihren Antrag entweder genehmigen oder ablehnen. Sie erhalten eine E-Mail, sobald Ihr Antrag genehmigt wurde.</div></li></ul>"
+msgstr "Hier können Sie den Text auf dem Login-Bildschirm wählen. Sie müssen festlegen, welcher vordefinierte Text am besten passt.<br><br>Sie können aber auch Ihren eigenen, individualisierten Begrüßungstext eingeben. Bitte beachten Sie für weitere Informationen die Hilfetexte, die mit dem Feld <b>individualisierter Begrüßungstext</b> verbunden sind.<br><br>Die vordefinierten Standardtexte sind:<ul><li><b>Textbausteine die mitteilen, dass alle Benutzer ein Benutzerkonto anfragen können:</b><div class=\"list_value_wrap\"><center><b> Willkommen auf dieser Genealogie Webseite</b></center><br>Der Zugang zu dieser Webseite ist jedem Besucher mit einem Benutzerkonto möglich.<br><br>Wenn Sie bereits ein Benutzerkonto haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch kein Benutzerkonto haben, können Sie sich registrieren, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Webseitenadministrator Ihr Konto aktivieren. Sie erhalten eine E-Mail, sobald Ihrer Registrierung erfolgt ist.</div><br></li><li><b>Standardtext, der besagt, dass bei jeder Anfrage für ein Benutzerkonto der Administrator entscheidet:</b><div class=\"list_value_wrap\"><center><b>Willkommen auf dieser Genealogie-Webseite</b></center><br>Der Zugang zu dieser Webseite ist nur <u>autorisierten</u> Benutzern gestattet.<br><br>Wenn Sie bereits ein Benutzerkonto haben, können Sie sich auf dieser Seite anmelden. Wenn Sie noch kein Benutzerkonto haben, können Sie sich registrieren, indem Sie auf den entsprechenden Link klicken.<br><br>Sobald Ihre Angaben überprüft sind, wird der Administrator Ihrer Anfrage entweder zustimmen oder sie ablehnen. Sie erhalten eine E-Mail, wenn Ihre Anfrage genehmigt wurde</div><br></li><li><b>Standardtext, dass nur Familienmitglieder ein Benutzerkonto anlegen können:</b><div class = \"list_value_wrap\"><center><b>Willkommen auf dieser Genealogie-Webseite</b></center><br>Der Zugang zu dieser Webseite ist <u>nur Familienmitgliedern</u> möglich.<br><br>Wenn Sie bereits ein Benutzerkonto besitzen, können Sie sich auf dieser Seite anmelden. Wenn Sie noch kein Benutzerkonto haben, können Sie es einrichten, indem Sie auf den entsprechenden Link klicken.<br><br>Nach Überprüfung Ihrer Informationen, wird der Administrator Ihre Registrierung entweder genehmigen oder ablehnen. Sie erhalten eine E-Mail, sobald über die Anfrage entschieden wurde.</div></li></ul>"
 
 #: modules_v3/googlemap/help_text.php:54
 msgid "Here you can enter the precision. Based on this setting the number of digits that will be used in the latitude and longitude is determined."
@@ -7322,7 +7322,7 @@ msgstr "Wenn ein Name nicht genügend oft vorkommt, erscheint er nicht in der Li
 
 #: help_text.php:819
 msgid "If the option <b>Allow visitors to request account registration</b> is enabled this setting controls whether the admin must approve the registration.<br><br>Setting this to <b>Yes</b> will require that all new users first verify themselves and then be approved by an admin before they can login.  With this setting on <b>No</b>, the <b>User approved by Admin</b> checkbox will be checked automatically when users verify their account, thus allowing an immediate login afterwards without admin intervention."
-msgstr "Wenn die Option <b>Besuchern erlauben, einen Zugang anzufordern</b> auf <b>Ja</b> gestellt ist, bestimmt diese weitere Option ob der Verwalter jeden Benutzerantrag genehmigen muss oder nicht.<br><br>Die Wahl <b>Ja</b> bestimmt, dass neue Benutzer ihren Antrag erst bestätigen müssen.  Nach dieser Bestätigung muss der Antrag noch vom Verwalter genehmigt werden.  Erst nach der dieser Genehmigung kann der neue Benutzer sich anmelden.<br><br>Die Wahl <b>Nein</b> bestimmt, dass das Kästchen <b>Benutzer wurde vom Verwalter freigegeben</b> automatisch angekreuzt ist, und dass sofort nach der Bestätigung des Anwärters dieser sich anmelden kann.  Die Genehmigung des Verwalters ist also automatisch."
+msgstr "Wenn die Option <b>Besuchern erlauben, einen Zugang anzufordern</b> auf <b>Ja</b> gestellt ist, bestimmt diese weitere Option ob der Verwalter jeden Benutzerregistrierung genehmigen muss oder nicht.<br><br>Die Wahl <b>Ja</b> bestimmt, dass neue Benutzer ihre Registrierung erst bestätigen müssen.  Nach dieser Bestätigung muss die Registrierung noch vom Verwalter genehmigt werden.  Erst nach der dieser Genehmigung kann der neue Benutzer sich anmelden.<br><br>Die Wahl <b>Nein</b> bestimmt, dass das Kästchen <b>Benutzer wurde vom Verwalter freigegeben</b> automatisch angekreuzt ist, und dass sofort nach der Bestätigung des Anwärters dieser sich anmelden kann.  Die Genehmigung des Verwalters ist also automatisch."
 
 #: help_text.php:281
 #, php-format
@@ -9593,7 +9593,7 @@ msgstr "Deue Daten"
 #: login.php:314
 #, php-format
 msgid "New registration at %s"
-msgstr "Neue Anmeldung bei %s"
+msgstr "Neue Registrierung bei %s"
 
 #. I18N: %s is a server name/URL
 #: login.php:510
@@ -10921,15 +10921,15 @@ msgstr "Genauigkeit der Breiten- und Längengrade"
 
 #: admin_site_config.php:46
 msgid "Predefined text that states admin will decide on each request for a user account"
-msgstr "Vordefinierter Text, der erklärt, dass der Verwalter über den Zugangs-Antrag entscheidet"
+msgstr "Vordefinierter Text, der erklärt, dass der Verwalter über die Registrierung entscheidet"
 
 #: admin_site_config.php:45
 msgid "Predefined text that states all users can request a user account"
-msgstr "Vordefinierter Text, der erklärt, dass alle Benutzer einen Zugang beantragen können"
+msgstr "Vordefinierter Text, der erklärt, dass alle Benutzer einen Zugang anfragen können"
 
 #: admin_site_config.php:47
 msgid "Predefined text that states only family members can request a user account"
-msgstr "Vordefinierter Text, der erklärt, dass nur Familienmitglieder einen Zugang beantragen können"
+msgstr "Vordefinierter Text, der erklärt, dass nur Familienmitglieder einen Zugang anfragen können"
 
 #: admin_users.php:192 admin_users.php:394 edituser.php:171 help_text.php:1179
 msgid "Preferred contact method"
@@ -11492,20 +11492,20 @@ msgstr "Name des Aufbewahrungsortes"
 
 #: login.php:180 modules_v3/login_block/module.php:84
 msgid "Request new password"
-msgstr "Neues Kennwort beantragen"
+msgstr "Neues Kennwort anfordern"
 
 #: login.php:183 login.php:259 modules_v3/gedcom_block/module.php:52
 #: modules_v3/login_block/module.php:87
 msgid "Request new user account"
-msgstr "Benutzer Antrag"
+msgstr "Registrierung"
 
 #: admin_site_config.php:82 help_text.php:818
 msgid "Require an administrator to approve new user registrations"
-msgstr "Verwalterzustimmung zu neuen Benutzeranträgen erforderlich"
+msgstr "Zustimmung eines Administrators zu neuen Registrierungen erforderlich"
 
 #: admin_trees_config.php:480 help_text.php:823
 msgid "Require visitor authentication"
-msgstr "Besucher Login notwendig"
+msgstr "Besucher-Login erforderlich"
 
 #. I18N: gedcom tag _TODO
 #: library/WT/Gedcom/Tag.php:809
@@ -11959,7 +11959,7 @@ msgstr "Nachrichten an Benutzer senden, die sich innerhalb der letzten 6 Monate 
 
 #: modules_v3/review_changes/module.php:161
 msgid "Send out reminder emails?"
-msgstr "Erinnerungs E-Mails versenden?"
+msgstr "Erinnerungs-E-Mails versenden?"
 
 #. I18N: A site configuration setting
 #: admin_site_config.php:111 help_text.php:753
@@ -12305,7 +12305,7 @@ msgstr "Zeigen"
 
 #: admin_site_config.php:166 help_text.php:894
 msgid "Show acceptable use agreement on “Request new user account” page"
-msgstr "Bedingungen auf der «Benutzer Antrag» Seite zeigen"
+msgstr "Bedingungen auf der Seite «Registrierung» zeigen"
 
 #: help_text.php:879
 msgid "Show age of parents next to child’s birthdate"
@@ -13493,7 +13493,7 @@ msgstr "Die folgende Liste zeigt typische Voraussetzungen."
 #: includes/authentication.php:250 includes/authentication.php:257
 #: includes/authentication.php:311 includes/authentication.php:318
 msgid "The following message has been sent to your webtrees user account from "
-msgstr "Die folgende Nachricht wurde an Ihr webtrees Benutzer Postfach gesendet von "
+msgstr "Die folgende Nachricht wurde an Ihr webtrees-Benutzerpostfach gesendet von "
 
 #: admin_trees_places.php:108
 msgid "The following places were changed:"
@@ -15064,7 +15064,7 @@ msgstr "Dieses Feld deutet an dass das Medienobjekt als primäres Objekt der ver
 
 #: help_text.php:1358
 msgid "Use this field to tell the site administrator why you are requesting an account and how you are related to the genealogy displayed on this site.  You can also use this to enter any other comments you may have for the site administrator."
-msgstr "Bitte benutzen Sie dieses Feld um dem Verwalter mitzuteilen warum Sie einen Zugangsantrag machen und wie Sie mit diesem Stammbaum verbunden sind.  Sie können hier auch andere Bemerkungen machen, die Sie dem Verwalter mitteilen möchten."
+msgstr "Bitte benutzen Sie dieses Feld um dem Verwalter mitzuteilen warum Sie eine Registrierung möchten und wie Sie mit diesem Stammbaum verbunden sind.  Sie können hier auch andere Bemerkungen machen, die Sie dem Verwalter mitteilen möchten."
 
 #: edit_interface.php:1971
 msgid "Use this page to change or remove family members.<br><br>For each member in the family, you can use the Change link to choose a different individual to fill that role in the family.  You can also use the Remove link to remove that individual from the family.<br><br>When you have finished changing the family members, click the save button to save the changes."
@@ -15085,7 +15085,7 @@ msgstr "Benutzer Verwaltung"
 
 #: admin_users.php:525
 msgid "User didn’t verify within 7 days."
-msgstr "Anmeldungsantrag nicht selbst bestätigt"
+msgstr "Registrierung nicht selbst bestätigt"
 
 #: admin_users.php:535
 msgid "User not verified by administrator."
@@ -15093,11 +15093,11 @@ msgstr "Vom Verwalter unbestätigter Benutzer"
 
 #: admin_trees_config.php:442
 msgid "User options"
-msgstr "Benutzer Einstellungen"
+msgstr "Benutzereinstellungen"
 
 #: login.php:452 login.php:458 login.php:515 login.php:519
 msgid "User verification"
-msgstr "Benutzer Verifizierung"
+msgstr "Benutzerverifizierung"
 
 #. I18N: http://en.wikipedia.org/wiki/User_agent_string
 #: admin_site_access.php:280 admin_site_access.php:295
@@ -15367,12 +15367,12 @@ msgstr "Das Erzeugen von Wasserzeichen kann für große Bilder sehr langsam sein
 #: login.php:374
 #, php-format
 msgid "We will now send a confirmation email to the address <b>%s</b>. You must verify your account request by following instructions in the confirmation email. If you do not confirm your account request within seven days, your application will be rejected automatically.  You will have to apply again.<br><br>After you have followed the instructions in the confirmation email, the administrator still has to approve your request before your account can be used.<br><br>To login to this site, you will need to know your user name and password."
-msgstr "Ihnen wird nun eine Bestätigungsmail an die Adresse <b>%s</b> geschickt.  Sie müssen den in der Mail enthaltenen Anweisungen folgen, um Ihren Benutzernamen zu aktivieren. Falls Sie innerhalb von 7 Tagen nicht reagieren, wird Ihr Antrag automatisch abgewiesen.  Sie müssen dann erneut antragen.<br><br>Wenn Sie den Anweisungen in der Bestätigungsmail gefolgt sind, muss der Verwalter Ihren Benutzernamen noch freischalten, bevor Sie ihn benutzen können.<br><br>Um sich auf dieser Webseite anzumelden, benötigen Sie Ihren Benutzernamen und Ihr Kennwort."
+msgstr "Ihnen wird nun eine Bestätigungsmail an die Adresse <b>%s</b> geschickt.  Sie müssen den in der Mail enthaltenen Anweisungen folgen, um Ihren Benutzernamen zu aktivieren. Falls Sie innerhalb von 7 Tagen nicht reagieren, wird Ihre Anfrage automatisch abgewiesen.  Sie müssen dann erneut anfragen.<br><br>Wenn Sie den Anweisungen in der Bestätigungsmail gefolgt sind, muss der Verwalter Ihren Benutzernamen noch freischalten, bevor Sie ihn benutzen können.<br><br>Um sich auf dieser Webseite anzumelden, benötigen Sie Ihren Benutzernamen und Ihr Kennwort."
 
 #: login.php:376
 #, php-format
 msgid "We will now send a confirmation email to the address <b>%s</b>. You must verify your account request by following instructions in the confirmation email. If you do not confirm your account request within seven days, your application will be rejected automatically.  You will have to apply again.<br><br>After you have followed the instructions in the confirmation email, you can login.  To login to this site, you will need to know your user name and password."
-msgstr "Ihnen wird nun eine Bestätigungsmail an die Adresse <b>%s</b> geschickt. Sie müssen den in der Mail enthaltenen Anweisungen folgen, um Ihren Benutzernamen zu aktivieren. Falls Sie innerhalb von 7 Tagen nicht reagieren, wird Ihr Antrag automatisch abgewiesen. Sie müssen dann erneut antragen.<br><br>Wenn Sie den Anweisungen in der Bestätigungs Mail gefolgt sind, können Sie sich sofort auf dieser Webseite anmelden. Dazu benötigen Sie Ihren Benutzernamen und Ihr Kennwort."
+msgstr "Ihnen wird nun eine Bestätigungsmail an die Adresse <b>%s</b> geschickt. Sie müssen den in der Mail enthaltenen Anweisungen folgen, um Ihren Benutzernamen zu aktivieren. Falls Sie innerhalb von 7 Tagen nicht reagieren, wird Ihre Anfrage automatisch abgewiesen. Sie müssen dann erneut anfragen.<br><br>Wenn Sie den Anweisungen in der Bestätigungsmail gefolgt sind, können Sie sich sofort auf dieser Webseite anmelden. Dazu benötigen Sie Ihren Benutzernamen und Ihr Kennwort."
 
 #: admin_trees_config.php:420
 msgid "Web site and META tag settings"
@@ -15460,7 +15460,7 @@ msgstr "Für die Berechnung von Verwandschaftsgraden, bestimmt diese Option, ob 
 
 #: help_text.php:895
 msgid "When set to <b>Yes</b>, the following message will appear above the input fields on the “Request new user account” page:<div class=\"list_value_wrap\"><div class=\"largeError\">Notice:</div><div class=\"error\">By completing and submitting this form, you agree:<ul><li>to protect the privacy of living individuals listed on our site;</li><li>and in the text box below, to explain to whom you are related, or to provide us with information on someone who should be listed on our site.</li></ul></div></div>"
-msgstr "Wenn Sie <b>Ja</b>, wählen, wird folgende Notiz als Überschrift auf der «Benutzer Antrag» Seite gezeigt:<div class=\"list_value_wrap\"><div class=\"largeError\">Bitte beachten Sie:</div><div class=\"error\">Indem Sie dieses ausgefüllte Formular einsenden, bestätigen Sie Ihr Einverständnis mit den folgenden Bedingungen:<ul><li>dass Sie Informationen über lebende Personen, die in dieser Datenbank vorkommen, immer vertraulich halten;</li><li>und dass Sie in der unten stehenden Textbox Ihre Verwandtschaft zu Personen in dieser Datenbank erklären und Informationen über Personen, die in dieser Datenbank vorkommen, aber dort eventuell fehlen sollten, mitteilen.</li></ul></div></div>"
+msgstr "Wenn Sie <b>Ja</b>, wählen, wird folgende Notiz als Überschrift auf der Seite «Registrierung» gezeigt:<div class=\"list_value_wrap\"><div class=\"largeError\">Bitte beachten Sie:</div><div class=\"error\">Indem Sie dieses ausgefüllte Formular einsenden, bestätigen Sie Ihr Einverständnis mit den folgenden Bedingungen:<ul><li>dass Sie Informationen über lebende Personen, die in dieser Datenbank vorkommen, immer vertraulich halten;</li><li>und dass Sie in der unten stehenden Textbox Ihre Verwandtschaft zu Personen in dieser Datenbank erklären und Informationen über Personen, die in dieser Datenbank vorkommen, aber dort eventuell fehlen sollten, mitteilen.</li></ul></div></div>"
 
 #: help_text.php:1289
 msgid "When this check box is checked, the chart will be printed with oldest individuals at the top.  When it is unchecked, youngest individuals will appear at the top."
@@ -15724,7 +15724,7 @@ msgstr "Sie haben zweimal die selbe ID eingegeben. Das Zusammenfügen ist nicht 
 
 #: login.php:554
 msgid "You have confirmed your request to become a registered user."
-msgstr "Sie haben Ihren Antrag als Benutzer bestätigt."
+msgstr "Sie haben Ihre Registrierung als Benutzer/in bestätigt."
 
 #: modules_v3/user_messages/module.php:81
 msgid "You have no pending messages."
@@ -15894,7 +15894,7 @@ msgstr "Ihr Name"
 #: login.php:333
 #, php-format
 msgid "Your registration at %s"
-msgstr "Ihre Anmeldung bei %s"
+msgstr "Ihre Registrierung bei %s"
 
 #: setup.php:252
 msgid "Your server’s administrator will provide you with the connection details."
